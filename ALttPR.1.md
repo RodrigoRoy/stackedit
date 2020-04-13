@@ -1,7 +1,3 @@
----
-
-
----
 
 <h1 id="the-legend-of-zelda-a-link-to-the-past-randomizer">The Legend of Zelda: A Link the Past Randomizer</h1>
 <h2 id="by-rodrigoroy--httpswww.twitch.tvrodrigoroy">By: RodrigoRoy @ <a href="https://www.twitch.tv/rodrigorhttps://www.twitch.tv/rodrigoroy</a></h2>
@@ -13,6 +9,7 @@
 
 Note: If “<em>"*Zelda no Densetsu: Kamigami no Triforce v1.0</em>”*" ROM file is needed, here it is (1 MB): <a href="https://drive.google.com/file/d/1id-y_j-wymfbKC0Nto7Ss7-9P8h_uZbH/view?usp=sharing">https://drive.google.com/file/d/1id-y_j-wymfbKC0Nto7Ss7-9P8h_uZbH/view?usp=sharing</a></p>
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTMxMjI0OF19
+eyJoaXN0b3J5IjpbLTMxNjIxMTQ3OF19
 -->
