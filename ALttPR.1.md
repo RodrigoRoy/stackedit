@@ -3,10 +3,10 @@
 ## By: RodrigoRoy @ https://www.twitch.tv/rodrigoroy
 
 ### April 12th 2020
-**Permalink ** (help Roy with the spoilers): https://alttpr.com/en/h/odMENeQAv1
+**Randomizer Permalink** (help Roy with the spoilers in the chat): https://alttpr.com/en/h/odMENeQAv1
 
-If ROM file is needed, here it is (1 MB): https://drive.google.com/file/d/1id-y_j-wymfbKC0Nto7Ss7-9P8h_uZbH/view?usp=sharing
+Note: If "*Zelda no Densetsu: Kamigami no Triforce v1.0*" ROM file is needed, here it is (1 MB): https://drive.google.com/file/d/1id-y_j-wymfbKC0Nto7Ss7-9P8h_uZbH/view?usp=sharing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MjYzMjUzNiwtMTA0MTA3NzEwNl19
+eyJoaXN0b3J5IjpbLTExMzg5MTkzMSwtMTA0MTA3NzEwNl19
 -->
