@@ -4,11 +4,13 @@
 
 ### May 4th 2020
 
-Randomizer Permalink: [link]
+![](https://alttp-wiki.net/index.php/Main_Page)
 
-Note: If “_Zelda no Densetsu: Kamigami no Triforce v1.0_”If ROM file is needed, here it is (1 MB): https://drive.google.com/file/d/1id-y_j-wymfbKC0Nto7Ss7-9P8h_uZbH/view?usp=sharing
+**Randomizer Permalink**: [link]
+
+Note: If “_Zelda no Densetsu: Kamigami no Triforce v1.0_” ROM file is needed, here it is (1 MB): https://drive.google.com/file/d/1id-y_j-wymfbKC0Nto7Ss7-9P8h_uZbH/view?usp=sharing
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxMDg0NjczOCwtODUzMDMwMDc2LDIzMT
-Y3NDg0NV19
+eyJoaXN0b3J5IjpbLTE1MTEyMzIxNjYsLTg1MzAzMDA3NiwyMz
+E2NzQ4NDVdfQ==
 -->
