@@ -1,3 +1,6 @@
+# The Legend of Zelda: A Link to the Past Randomizer
+
+
 <h1 id="the-legend-of-zelda-a-link-to-the-past-randomizer">The Legend of Zelda: A Link to the Past Randomizer</h1>
 <h2 id="by-rodrigoroy--httpswww.twitch.tvrodrigoroy">Catch the stream @ <a href="https://www.twitch.tv/rodrigoroy">https://www.twitch.tv/rodrigoroy</a></h2>
 <h3 id="april-12th-2020">April 12th 2020</h3>
@@ -5,5 +8,6 @@
 <p>Note: If “<em>Zelda no Densetsu: Kamigami no Triforce v1.0</em>”If ROM file is needed, here it is (1 MB): <a href="https://drive.google.com/file/d/1id-y_j-wymfbKC0Nto7Ss7-9P8h_uZbH/view?usp=sharing">https://drive.google.com/file/d/1id-y_j-wymfbKC0Nto7Ss7-9P8h_uZbH/view?usp=sharing</a></p>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MzAzMDA3NiwyMzE2NzQ4NDVdfQ==
+eyJoaXN0b3J5IjpbLTI3ODg0ODI5NCwtODUzMDMwMDc2LDIzMT
+Y3NDg0NV19
 -->
